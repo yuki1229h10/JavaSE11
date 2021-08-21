@@ -7,3 +7,5 @@ public class Main {
         System.out.println(a.equals(b));
     }
 }
+
+// null以外の参照値xについて、x.equals(null)はfalseを返すこと
