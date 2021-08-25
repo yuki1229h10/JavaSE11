@@ -7,7 +7,7 @@ public class Main {
             for (String b : array) {
                 if ("B".equals(b))
                     break;
-                // System.out.print(a);
+                System.out.print(a);
                 System.out.print(b);
             }
         }
