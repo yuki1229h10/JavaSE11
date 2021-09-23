@@ -3,7 +3,7 @@ package chapter7.ex12;
 public class Main {
     public static void main(String[] args) {
         A a = new A();
-        A b = new B();
+        B b = new B();
         System.out.println(a.val);
         System.out.println(b.val);
         a.print();
